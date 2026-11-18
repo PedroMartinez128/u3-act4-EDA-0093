@@ -1,0 +1,7 @@
+﻿id_clase,nombre_clase,instructor,dia_semana,horario,duracion_minutos,capacidad_maxima,inscritos_promedio,nivel,costo_por_clase
+101,Spinning,Ana,Lunes,07:00,45,20,18,Intermedio,100
+102,Yoga,Sofia,Martes,09:00,60,15,12,Principiante,120
+103,Crossfit,Carlos,Miercoles,18:00,60,12,12,Avanzado,150
+104,Zumba,Laura,Jueves,19:00,50,25,20,Principiante,90
+105,Pilates,Maria,Viernes,10:00,50,15,10,Intermedio,130
+106,Boxeo,Pedro,Sabado,11:00,60,10,8,Intermedio,140
